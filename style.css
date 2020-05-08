@@ -1,0 +1,12 @@
+body {
+background-color: black;
+}
+table {
+border: 1px solid white;
+    border-radius: 10px;
+    width: 60%;
+    color: white;
+    text-align: left;
+    margin: auto;
+    margin-top: 50px;
+}
